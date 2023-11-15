@@ -51,6 +51,35 @@ This draft is a simplified introduction to the RIS HDCNN framework. It's designe
 
 
 
+
+Keywords:
+
+signal buff
+weighted every signal ⚖️
+Music, piano chords 🎼
+
+
+
+Signal & system.
+Stable diffusion.🌫️
+Midjourney.
+
+
+meme
+The generation wave
+Involved
+Information bubble.  fitter
+
+Only suffered.
+Could understand others suffer.
+
+
+Recall with ancient
+David Lion
+
+
+
+
 e.g.
 
 Certainly! Let's apply the RIS HDCNN framework to the life of Albert Einstein, the renowned theoretical physicist:
